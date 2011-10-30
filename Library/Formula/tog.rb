@@ -1,9 +1,9 @@
 require 'formula'
 
 class Tog < Formula
-  url 'https://github.com/liborw/tog/tarball/0.4'
+  url 'https://github.com/liborw/tog/tarball/0.5.1'
   homepage 'https://github.com/liborw/tog'
-  md5 '131b36e889dba3a8beb43539cfd5b2c8'
+  md5 '8c732741bc7c034c9b012b6ef961ad78'
 
   depends_on 'haskell-platform'
 
